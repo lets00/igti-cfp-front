@@ -1,0 +1,17 @@
+.month {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
+
+
+select {
+    width: 150px;
+    font-family: "Fira Code Retina, Consolas, monospace, Arial";
+}
+
+.buttonBackNext {
+    margin: 0 5px;
+    font-weight: bold;
+}
