@@ -1,5 +1,7 @@
 # Controle Financeiro Pessoal (Desafio IGTI Bootstrap)
 
+![printscreen](./image01.png)
+
 Esse projeto contém o **front-end** do projeto final do Bootcamp realizado pela IGTI (Um controle de financas pessoais).
 
 O Front-end foi desenvolvido utilizando a biblioteca React e uma **demo** pode ser acessada através do link: [https://lets00-cfp-front.herokuapp.com/](https://lets00-cfp-front.herokuapp.com/).
