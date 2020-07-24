@@ -1,4 +1,4 @@
-# Controle Financeiro Pessoal (Desafio IGTI Bootstrap)
+# Controle Financeiro Pessoal (Desafio IGTI Bootcamp)
 
 Esse projeto contém o **front-end** do projeto final do Bootcamp realizado pela IGTI (Um controle de financas pessoais).
 
